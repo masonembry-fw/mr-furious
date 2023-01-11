@@ -1,0 +1,22 @@
+{
+  "name": "mr-furious",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masonembry-fw/mr-furious.git"
+  },
+  "author": "mason.embry@fireworkhq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masonembry-fw/mr-furious/issues"
+  },
+  "homepage": "https://github.com/masonembry-fw/mr-furious#readme",
+  "devDependencies": {
+    "prettier": "^2.8.2"
+  }
+}
